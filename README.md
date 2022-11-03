@@ -1,4 +1,4 @@
-# racing-game
+# a bit racey
 a small racing game in python
 <br> ![Screenshot 2022-11-03 230515](https://user-images.githubusercontent.com/65486996/199843979-f58c452d-439a-4c37-bbc5-9261c7ac5aec.png)
 <br> Dodge the squares falling from the sky!
